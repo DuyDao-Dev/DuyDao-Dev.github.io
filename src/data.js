@@ -43,10 +43,19 @@ export const projects = [
 // ];
 
 export const skills = [
+  "HTML",
+  "CSS",
   "JavaScript",
   "React",
+  "Redux/Saga",
+  "Ajax",
+  "Axios",
+  "Jest",
   "Next.js",
   "Node",
   "GraphQL",
+  "Postgres",
   "Material UI",
+  "Passport",
+  "POSTMAN",
 ];
