@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "SQL ToDo List",
     description:
       "Early app I created to keep track of things I needed to do.",
-    image: "./project-4.gif",
+    image: "./project-1.gif",
     link: "https://https://github.com/DuyDao-Dev/weekend-sql-to-do-list.com",
   },
   {
@@ -21,7 +21,15 @@ export const projects = [
     description:
       "No Thyme: Search for recipes with ingredients you have on hand. Where No Thyme, saves time.",
     image: "./thyme.jpeg",
-    link: "https://github.com/DuyDao-Dev/prime-solo-project-2021",
+    link: "https://no-thyme.herokuapp.com/",
+  },
+  {
+    title: "100 Year Manifesto",
+    subtitle: "React, Redux, Saga",
+    description:
+      "100 Year Manifesto: For Living with Intentionality",
+    image: "./group-project.png",
+    link: "https://one-hundred-year-manifesto.herokuapp.com/",
   },
 ];
 
